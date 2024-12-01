@@ -26,9 +26,3 @@ The **Retail AI Insights** app is a Streamlit-based web application designed to 
 
 - **Custom Data Upload**:
   - Upload custom CSV files to analyze shopper behavior and generate insights specific to your business.
-
-## How to Run Locally
-
-### Prerequisites
-- Python 3.10 or later
-- Pip (Python package installer)
