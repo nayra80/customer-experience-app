@@ -1,3 +1,35 @@
-*
-!/customer-experience-app/
-!README.md
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# IDE-related files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Streamlit cache directory (optional, if you want to exclude Streamlit’s cache files)
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other temporary files
+*.swp
+*.temp
+*.bak
+*.old
